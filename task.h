@@ -19,11 +19,12 @@ class Event{
         string description;
         int classification;
         date dueDate;
+        time dueTime;
         date reminderDate;
         time reminderTime;
     public:
         Event();
-        Event(string title, string description, int classification, date dueDate, date reminderDate, time reminderTime)
+        Event(string title, string description, int classification, date dueDate, time dueTime, date reminderDate, time reminderTime);
         ~Event();
 
         void setTitle(const string s);
