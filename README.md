@@ -20,4 +20,5 @@ UML Image
 <img src="https://github.com/imrebsw/CS100FINALPROJECT/blob/main/UmlProject-2.jpg?raw=true" width="1000">
 
 UML Decription:
+
 This class Diagram shows the manner which the structure classes and main Event class will interact with one another. The Event class will be using the variables from the structure classes to process and display the given information for specific events created in the discord server. These events will have different classification categories depending on the server and the user's needs. NOTE: This is not the final design for the UML Diagram, we will be updating this diagram as more discussion occurs and as the project progresses. 
